@@ -3,13 +3,14 @@
 [![Vladislav Shalnev's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyoslav&count_private=true&show_icons=true&title_color=58a6ff&bg_color=0d1117&hide_border=true&icon_color=fafafa&text_color=fafafa&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Мне 17 лет, в данный момент живу в Санкт-Петербурге, вот ещё пару бесполезных фактов обо мне:
+Мне 18 лет, в данный момент живу в Санкт-Петербурге, вот ещё пару бесполезных фактов обо мне:
 
 * Увлекаюсь программированием более 3-х лет
 * Позиционирую себя как Frontend-разработчик (но очень хочу стать Fullstack)
 * Занимаюсь разработкой веб-приложений и чат-ботов
 * Победитель [Ежегодной премии VK Mini Apps 2020](https://vk.com/vkappsdev?w=wall-166562603_3201) с приложением [Memeer](https://vk.com/app7601051)
 * Учусь в СПбГУ на 1 курсе
+* Победитель [VK Fresh Code 2021](https://vk.com/vkappsdev?w=wall-166562603_3922)
 
 ## Проекты (которые не стыдно показать 🙃)
 
@@ -30,7 +31,6 @@
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![visual studio](https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white)
-![coolify](https://img.shields.io/badge/Coolify-ef4444?style=for-the-badge&logo=C&logoColor=white)
 
 ## Связь со мной
 
